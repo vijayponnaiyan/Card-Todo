@@ -45,9 +45,14 @@ const TodoForm = ({ addTodo }) => {
         errors={errors}
         placeholder="Image URL..."
         validation={{
-          pattern: {
-            value: /^(https?:\/\/.*\.(?:png|jpg|jpeg|gif|webp))$/i,
-            message: "Enter a valid image URL (jpg, png, gif, webp)",
+          validate: (value) => {
+            if (!value) return true; // Allow empty input
+            if (
+              /^(https?:\/\/.*\.(?:png|jpg|jpeg|gif|webp)(\?.*)?)$/i.test(value)
+            ) {
+              return true; // Accept valid image URLs
+            }
+            return true; // Allow free text input without error
           },
         }}
       />
