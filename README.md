@@ -29,7 +29,7 @@ Install my-project with npm
 ### Steps to Run
 1. Clone the repository:
    ```bash
-  (https://github.com/vijayponnaiyan/lifo.git)
+  ((https://github.com/vijayponnaiyan/Card-Todo.git))
    ```
 2. Navigate to the project directory:
    ```bash
