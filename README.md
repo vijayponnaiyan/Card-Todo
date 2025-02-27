@@ -1,54 +1,59 @@
-# Todo App with Filtering and Local Storage
+📌 Todo App with Filtering and Local Storage
+🚀 Overview
+This is a React & Tailwind CSS powered Todo App that allows users to add, edit, delete, and filter tasks. It also persists data using Local Storage for a seamless user experience.
 
-## 📌 Overview  
-This is a simple yet powerful **Todo App** built with **React & Tailwind CSS**. It allows users to add, remove, and mark tasks as completed. Additionally, it supports **filtering tasks** and **persists data** using **Local Storage**.
+🎯 Features
+✅ Add, edit, and delete tasks
+✅ Mark tasks as completed or pending
+✅ Filter tasks by All, Completed, or Pending
+✅ Local Storage support for data persistence
+✅ Fully responsive UI with Tailwind CSS
+✅ Reusable components for maintainability
 
-## 🎯 Features  
-✅ Add, edit, and delete tasks  
-✅ Mark tasks as **completed or pending**  
-✅ Filter tasks (**All, Completed, Pending**)  
-✅ Stores tasks in **Local Storage**  
-✅ Fully **responsive** UI with **Tailwind CSS**  
-✅ **Reusable components** for better maintainability  
+🛠️ Tech Stack
+React (Vite) – Fast build tool
+Tailwind CSS – For styling
+React Hook Form – For form validation
+React Icons – For UI enhancements
+Local Storage – For storing tasks
+🚀 Getting Started
+📌 Prerequisites
+Ensure you have the following installed:
+✅ Node.js & npm (for package management)
+✅ A modern web browser (for testing)
 
-## 🛠️ Tech Stack  
-- **React** (Vite)  
-- **Tailwind CSS**  
-- **React Hook Form** (for form validation)  
-- **React Icons**  
-- **Local Storage** (for persistence)  
+📌 Installation & Setup
+1️⃣ Clone the repository:
 
-## 🚀 Getting Started  
+bash
+Copy
+Edit
+git clone https://github.com/vijayponnaiyan/Card-Todo.git
+2️⃣ Navigate to the project directory:
 
-## Installation
+bash
+Copy
+Edit
+cd Card-Todo
+3️⃣ Install dependencies:
 
-Install my-project with npm
-### Prerequisites
-- Node.js and npm installed on your machine (if using React).
-- A modern web browser for testing.
-### Steps to Run
+bash
+Copy
+Edit
+npm install
+4️⃣ Start the development server:
 
-1. Clone the repository:
-      ```bash
-  https://github.com/vijayponnaiyan/Card-Todo.git
-   ```
- 
-3. Navigate to the project directory:
-   ```bash
-   cd hexnode
-   ```
-4. Install dependencies (if applicable):
-   ```bash
-   npm install
-   ```
-5. Start the development server:
-   ```bash
-   npm run dev
-   ```
-6. Open your browser and visit:
-   ```
-   http://localhost:5173/
-    
+bash
+Copy
+Edit
+npm run dev
+5️⃣ Open in your browser:
+
+arduino
+Copy
+Edit
+http://localhost:5173/
+🚀 Deployment
 ## 🚀 Deployment  
 You can view the deployed project using the following link:  
 🔗 **[Live Demo](https://card-todo.vercel.app/)**
@@ -57,3 +62,4 @@ You can view the deployed project using the following link:
 📜 License
 This project is open-source and available under the MIT License.
 
+Let me know if you need any more modifications! 🚀🔥
