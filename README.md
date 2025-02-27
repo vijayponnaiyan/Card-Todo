@@ -55,3 +55,14 @@ You can view the deployed project using the following link:
 
 📜 License
 This project is open-source and available under the MIT License.
+
+
+## Todo App - User Avatars  
+
+Here are some sample avatars used in the Todo App:
+
+![User 1](https://randomuser.me/api/portraits/men/99.jpg)  
+![User 2](https://randomuser.me/api/portraits/men/99.jpg)  
+![User 3](https://randomuser.me/api/portraits/women/80.jpg)  
+![User 4](https://randomuser.me/api/portraits/men/67.jpg)  
+
