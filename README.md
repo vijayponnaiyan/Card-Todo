@@ -27,23 +27,24 @@ Install my-project with npm
 - Node.js and npm installed on your machine (if using React).
 - A modern web browser for testing.
 ### Steps to Run
-1. Clone the repository:  ```bash
-  https://github.com/vijayponnaiyan/Card-Todo.git
+1. Clone the repository:
+   ```bash
+    https://github.com/vijayponnaiyan/Card-Todo.git
    ```
  
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    ```bash
    cd hexnode
    ```
-3. Install dependencies (if applicable):
+4. Install dependencies (if applicable):
    ```bash
    npm install
    ```
-4. Start the development server:
+5. Start the development server:
    ```bash
    npm run dev
    ```
-5. Open your browser and visit:
+6. Open your browser and visit:
    ```
    http://localhost:5173/
     
