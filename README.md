@@ -49,7 +49,8 @@ Install my-project with npm
     
 ## 🚀 Deployment  
 You can view the deployed project using the following link:  
-🔗 **[Live Demo](https://card-todo.vercel.app/Card)**
+🔗 **[Live Demo](https://card-todo.vercel.app/)**
+
 
 📜 License
 This project is open-source and available under the MIT License.
